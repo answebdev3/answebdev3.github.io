@@ -2,6 +2,13 @@ html
 {
 	font-family: 'Merriweather', serif;
 	background-color: black;
+	background-image: url("../images/space2.jpg");
+
+}
+
+dl
+{
+	font-family: 'Merriweather', serif;
 }
 
 body
@@ -12,6 +19,7 @@ body
 	color: white;
 	padding: 0px 20px 20px 20px;
   	border: 7px solid grey;
+  	background-image: url("../images/html_bg.jpg");
 }
 
 h1
@@ -28,7 +36,7 @@ h2
 	font-size: 40px;
 }
 
-p,li
+p,li,dl
 {
 	font-size: 20px;
 	line-height: 2;
